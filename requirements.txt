@@ -1,0 +1,6 @@
+gradio
+pandas
+pdfplumber
+faiss-cpu
+sentence-transformers
+numpy
